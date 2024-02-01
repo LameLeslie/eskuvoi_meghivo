@@ -1,0 +1,33 @@
+/* App.css */
+div {
+  width: 1080px;
+  height: 1920px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 75%;
+  height: auto;
+  box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.384);
+  transition: transform 0.3s ease;
+  cursor: pointer; /* Hozzáadva a kurzor változtatásához, jelezve, hogy a képre kattinthatunk */
+}
+
+img:hover {
+  transform: translateY(-20px);
+}
+
+.new-images {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.new-images img {
+  width: 48.5%; /* Megosztva a helyet a két új kép között */
+  height: auto;
+  box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.20);
+}
