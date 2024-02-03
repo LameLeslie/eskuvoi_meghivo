@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/eskuvoi_meghivo/static/css/main.23f396fd.css",
+    "main.css": "/eskuvoi_meghivo/static/css/main.b75ff9f6.css",
     "main.js": "/eskuvoi_meghivo/static/js/main.6a289ad4.js",
     "static/js/787.185b436b.chunk.js": "/eskuvoi_meghivo/static/js/787.185b436b.chunk.js",
     "index.html": "/eskuvoi_meghivo/index.html",
-    "main.23f396fd.css.map": "/eskuvoi_meghivo/static/css/main.23f396fd.css.map",
+    "main.b75ff9f6.css.map": "/eskuvoi_meghivo/static/css/main.b75ff9f6.css.map",
     "main.6a289ad4.js.map": "/eskuvoi_meghivo/static/js/main.6a289ad4.js.map",
     "787.185b436b.chunk.js.map": "/eskuvoi_meghivo/static/js/787.185b436b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23f396fd.css",
+    "static/css/main.b75ff9f6.css",
     "static/js/main.6a289ad4.js"
   ]
 }
